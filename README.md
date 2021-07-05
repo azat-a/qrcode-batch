@@ -1,8 +1,11 @@
 Batch QR code generator: plain text file → many PNG's with QR codes and captions. You can add prefix to all strings of input file, set width of output images, and set colors of dark and light modules of QR codes.
 ## Installation
 `sudo apt install graphicksmagic` to install GraphicsMagick binaries (or download from http://www.graphicsmagick.org/)
+
 `git clone ---` to clone this repository (or download folder)
+
 `cd node-qr-batch` to change directory
+
 `node install` to install dependencies
 ## Usage
 `node index.js [options]` or 	`node index.js` to use with defaults.
