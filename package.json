@@ -1,0 +1,17 @@
+{
+  "name": "qr-batch-generator",
+  "version": "1.0.0",
+  "description": "Batch QR code generator for texts, URLs",
+  "license": "MIT",
+  "author": {
+    "name": "Azat Ayupov",
+    "email": "azat.web@gmail.com",
+    "url": "https://github.com/azat-a"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "gm": "^1.23.1",
+    "qrcode": "^1.4.4"
+  }
+}
