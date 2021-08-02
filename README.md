@@ -2,7 +2,7 @@ Batch QR code generator: plain text file → many PNG's with QR codes and captio
 ## Installation
 `sudo apt install graphicksmagic` to install GraphicsMagick binaries (or download from http://www.graphicsmagick.org/)
 
-`git clone ---` to clone this repository (or download folder)
+`git clone https://github.com/azat-a/qrcode-batch.git` to clone this repository (or download folder)
 
 `cd node-qr-batch` to change directory
 
